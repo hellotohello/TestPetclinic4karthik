@@ -367,7 +367,7 @@
 				<url>http://localhost:8085/manager/text</url>
                     <server>apache-tomcat</server>
                    
-                    <path>/petclinic</path>
+                    <path>/spring-petclinic-4.2</path>
                 </configuration>
             </plugin>
             <plugin>
@@ -446,7 +446,7 @@
 <server>apache-tomcat</server> 
 <username>admin</username>
 <password>admin</password>
-<path>/my-webapp</path> 
+<path>/spring-petclinic-4.2</path> 
 </configuration> 
 </plugin>
                     <plugin>
